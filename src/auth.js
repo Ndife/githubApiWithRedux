@@ -1,0 +1,1 @@
+module.exports.auth = {"Content-Type":"application/json", "Authorization":"token 664127c355f43daf8b6db22a6d4ef10eed037fc4"}
